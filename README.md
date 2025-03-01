@@ -1,6 +1,11 @@
 RockyNASKernel
 
 Version 6.12.17
+
 How do I compile?
-First, get the source code at: 
-https://kernel.org
+
+Simple! You don't!
+
+Set up the "update-system" file using install.sh (available on this repo)
+
+And then it will handle compilation for you!
